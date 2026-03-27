@@ -1,4 +1,4 @@
-# Ejemplos de Sintaxis en Python
+ # Ejemplos de Sintaxis en Python
 
 Este repositorio incluye ejemplos prácticos de la sintaxis básica de Python en formato Jupyter Notebook. 📌
 
